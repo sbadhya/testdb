@@ -2,8 +2,13 @@
   "users": [
     {
       "id": 1,
-      "fname": "Test",
-      "lname": "Test"
+      "fname": "Test #1",
+      "lname": "Test #1"
+    },
+        {
+      "id": 2,
+      "fname": "Test #2",
+      "lname": "Test #2"
     }
   ],
   "profile": {
