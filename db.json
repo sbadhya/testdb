@@ -2,13 +2,17 @@
   "users": [
     {
       "id": 1,
-      "fname": "Test #1",
-      "lname": "Test #1"
+      "fname": "Kishore",
+      "lname": "Kumar",
+      "username": "kkumar",
+      "password": "KKP@SS"
     },
     {
       "id": 2,
-      "fname": "Test #2",
-      "lname": "Test #2"
+      "fname": "Sonu",
+      "lname": "Nigam",
+      "username": "SNigam",
+      "password": "SNP@SS"
     }
   ],
   "profile": {
