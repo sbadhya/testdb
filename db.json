@@ -1,8 +1,9 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "fname": "Test"
+      "lname": "Test"
     }
   ],
   "profile": {
