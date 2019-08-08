@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "fname": "Test"
+      "fname": "Test",
       "lname": "Test"
     }
   ],
